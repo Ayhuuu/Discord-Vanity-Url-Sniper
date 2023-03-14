@@ -9,7 +9,7 @@
 » Open `install.bat` to download modules
 
 
-» Open run.bat to run the program
+» Open `run.bat` to run the program
 
 
 » In Your account Token place, put your own account token, not your bot token!

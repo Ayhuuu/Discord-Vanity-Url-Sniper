@@ -1,5 +1,5 @@
 ## Setup:
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="90%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss.png"></img>
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss3.png"></img>
 

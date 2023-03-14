@@ -22,4 +22,4 @@
 
 » Enter your the url you want 
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="50%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss1.png"></img>
+

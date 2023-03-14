@@ -21,7 +21,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-rl.question("\x1b[36m> Your Account Token:\x1b[0m ", (token) => {
+rl.question("\x1b[36m> Your Account Token:\x1b[0m ", (token) => {//NOT YOUR BOT TOKEN YOUR ACCOUNT TOKEN 31
   rl.question("\x1b[36m> Your Server ID:\x1b[0m ", (guildId) => {
     rl.question("\x1b[36m> Discord webhook URL:\x1b[0m ", (webhookUrl) => {
       rl.question("\x1b[36m> Vanity URL:\x1b[0m ", (vanityUrl) => {
@@ -50,7 +50,7 @@ rl.question("\x1b[36m> Your Account Token:\x1b[0m ", (token) => {
               }
               await delay(200);
             } catch (error) {
-              console.log('\x1b[31m%s\x1b[0m', "> Rate limited :(");
+              console.log('\x1b[31m%s\x1b[0m', "> Rate limited :(");//ofya
               await delay(5000);
             }
           }

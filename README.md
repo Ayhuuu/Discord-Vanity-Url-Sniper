@@ -1,5 +1,5 @@
 ## Setup:
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="90%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss.png"></img>
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss3.png"></img>
 
@@ -10,8 +10,6 @@
 
 » Open run.bat to run the program
 
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="50%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss1.png"></img>
 
 » In Your account Token place, put your own account token, not your bot token!
 
@@ -24,3 +22,4 @@
 
 » Enter your the url you want 
 
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="50%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/ss1.png"></img>

@@ -68,7 +68,7 @@ rl.question("\x1b[36m> Your Account Token:\x1b[0m ", (token) => {//NOT YOUR BOT 
               const data = {
                 content: `@everyone discord.gg/${vanityUrl} yours now!`,
                 username: "Ayhu",
-                avatar_url: "https://cdn.discordapp.com/attachments/1078000713914921043/1084384416228454460/lol.png"
+                avatar_url: "https://i.imgur.com/oKzncfw.png"
               };      
               request.post({
                 url: webhookUrl,

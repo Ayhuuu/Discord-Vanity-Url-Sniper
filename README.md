@@ -3,8 +3,14 @@
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/31.png"></img>
 
+
 ## Setup:
+
+» if you want premium sniper Telegram: https://t.me/Ayhhuu
+
+
 » if node is not installed download it [Node.js](https://nodejs.org/en/download/)
+
 
 » Open `install.bat` to download modules
 

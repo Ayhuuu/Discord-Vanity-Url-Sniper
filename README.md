@@ -29,4 +29,4 @@
 
 » Enter your the url you want 
 
-» Artık sanal mafya oldun afferim!
+» Artık sanal mafya oldun!

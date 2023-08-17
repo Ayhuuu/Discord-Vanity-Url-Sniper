@@ -6,7 +6,6 @@
 
 ## Setup:
 
-» if you need premium version telegram: https://t.me/Ayhhuu
 
 
 » if node is not installed download it [Node.js](https://nodejs.org/en/download/)
@@ -29,4 +28,3 @@
 
 » Enter your the url you want 
 
-» Artık sanal mafya oldun!
